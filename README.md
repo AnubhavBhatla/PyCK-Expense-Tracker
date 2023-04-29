@@ -2,7 +2,7 @@
 
 Welcome to our Expense Tracking app!
 
-We have to tried to keep things as simple as possible but you will have to pip install a few libraries in order for the application to work properly.
+We have to tried to keep things as simple as possible but you will have to pip install a few libraries in order for the application to work properly.  
 &nbsp;&nbsp;a) tkinter<br />
 &nbsp;&nbsp;b) tkcalendar<br />
 &nbsp;&nbsp;c) numpy<br />
